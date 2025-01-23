@@ -26,6 +26,6 @@ def renomear_arquivos_mp3(pasta):
                 print(f"Erro ao processar o arquivo {arquivo}: {e}")
 
 # Defina o caminho da pasta onde estão os arquivos MP3
-pasta_mp3 = "D:\TEMP"
+pasta_mp3 = "D:\MP3\NAC\MUKIFO\TEMP"
 
 renomear_arquivos_mp3(pasta_mp3)
