@@ -11,7 +11,7 @@ Lida com exceções caso o arquivo não contenha metadados ID3 ou ocorram outros
 Exibe uma mensagem de sucesso ou erro para cada arquivo processado.
 
 # Dependências:
-mutagen: Biblioteca usada para acessar e manipular os metadados ID3 dos arquivos MP3.
+Dependências listadas no arquivo "requirements.txt".
 
 # Como Usar:
 Defina o caminho da pasta contendo os arquivos MP3 no código.
